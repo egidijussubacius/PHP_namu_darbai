@@ -1,0 +1,19 @@
+#forma {
+    width: 30%;
+    height: 15%;
+    background-color: rgb(96, 207, 168);
+}
+
+h2 {
+    text-shadow: 1.25px 1.25px #0d4358;
+}
+
+td {
+    text-align: center;
+    color: rgb(122, 49, 22);
+}
+
+#submit,
+#reset {
+    color: rgb(96, 129, 46);
+}
